@@ -1,0 +1,124 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+
+header 
+{
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
+
+
+main
+{
+    margin-top: 150px;
+    margin-bottom: 290px;
+    text-align: center;
+}
+
+
+    
+
+.buscar
+{
+    margin-right: 20px;
+    border-radius: 7px;
+    border: 0;
+    width: 145px;
+    height: 26px;
+}
+
+.suerte
+{
+    border-radius: 7px;
+    border: 0;
+    width: 145px;
+    height: 26px;
+    
+}
+
+.iconoperfil
+{
+    width:40px;
+    height:40px;
+    border-top: 50px;
+    border-bottom: 50px;
+    border-radius: 50px;
+}
+.bordegoogle
+{
+    border-radius: 50px;
+    width: 353px;
+    height: 28px;
+    margin-bottom: 23px;
+}
+
+
+
+.logogoogle
+{
+    width: 260px;
+    height: 180px;
+}
+footer
+{
+    background-color: rgb(196, 187, 187);
+    padding-top: 0.6%;
+    padding-bottom: 0.6%;
+}
+
+
+
+.listah1
+{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.listah2
+{
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.lista1
+{
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.lista2
+{
+    text-decoration: none;
+    margin-right: 50px;
+}
+.lista3
+{
+    text-decoration: none;
+    margin-right: 50px;
+}
+.lista4
+{
+    text-decoration: none;
+    margin-right: 50px;
+}
+
+.lista5
+{
+    text-decoration: none;
+    margin-left: 500px;
+    margin-right: 50px;
+}.lista6
+{
+    text-decoration: none;
+    margin-right: 50px;
+}
+.lista7
+{
+    text-decoration: none;
+    margin-right: 50px;
+}
